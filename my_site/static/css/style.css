@@ -274,4 +274,11 @@ h2 {
     .nav ul{
         font-size: 14px;
     }
+    .content-skills {
+        font-size: 10px;
+    }
+
+    .card-content p {
+        font-size: 12px;
+    }
 }
